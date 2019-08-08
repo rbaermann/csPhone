@@ -1,0 +1,11 @@
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/obj/Debug/netcoreapp2.2/phone.csprojAssemblyReference.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/obj/Debug/netcoreapp2.2/phone.csproj.CoreCompileInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfoInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfo.cs
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/bin/Debug/netcoreapp2.2/phone.deps.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.dev.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/bin/Debug/netcoreapp2.2/phone.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/bin/Debug/netcoreapp2.2/phone.pdb
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/obj/Debug/netcoreapp2.2/phone.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/oop/phone/obj/Debug/netcoreapp2.2/phone.pdb
